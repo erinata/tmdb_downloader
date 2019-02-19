@@ -6,7 +6,6 @@ import time
 
 api_key = sys.argv[1]
 
-
 if not os.path.exists("json_files"):
 	os.mkdir("json_files")
 
